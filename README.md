@@ -362,8 +362,4 @@ We appreciate all contributions:
 
 Thank you for helping improve Copycord!
 
-# Buy me a coffee
 
-If you are enjoying Copycord, consider buying me a coffee!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41KPDX4)
